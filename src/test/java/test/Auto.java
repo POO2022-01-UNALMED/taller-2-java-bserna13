@@ -10,8 +10,7 @@ public class Auto {
     static int cantidadCreados;
 
     int cantidadAsientos(){
-        int n=5;
-        return n;
+        return 2;
     }
 
     String verificarIntegridad(){
