@@ -1,4 +1,5 @@
 package test;
+
 public class Auto {
     String modelo;
     int precio;
@@ -25,4 +26,7 @@ public class Auto {
         }
         return "Las piezas no son originales";
     }
+
+
+    
 }
