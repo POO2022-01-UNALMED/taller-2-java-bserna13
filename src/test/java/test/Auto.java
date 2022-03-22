@@ -10,7 +10,7 @@ public class Auto {
     static int cantidadCreados;
 
     int cantidadAsientos(){
-        int n=2;
+        int n=5;
         return n;
     }
 
